@@ -40,7 +40,7 @@ The aesthetic of these generative covers is based on 1970s science-fiction pulp 
 <div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/11626971" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p style="padding-top:10px">This visualization was inspired by Chris Marker&#039;s film <em>Sans Soleil</em>, a loosely woven narrative told through the epistolary relationship between a world traveler and a friend back home. Though the visual format of the film is described through a series of moving images cut together to form a journey through a traveler&#039;s memory, the text of the film is largely based off the letters and the inner journey they afford the reader. In this visualization, each phrase of the text is represented by a bounding phrase, or &#039;organism,&#039; that collides with other organisms in its vicinity. Matches of similar words between phrases cause the word to appear and a web to form between organisms. The user, or &#039;traveler,&#039; can &#039;capture&#039; an organism and drag it to find more matches, creating her own webs and thus a whole new narrative experience of the original text. Together both visualization and user construct any number of journeys for the fictive traveler to embrace.
 <br /><br />
-    <a href="/assets/sanssoleil.zip" download="sanssoleil.zip">Download app</a></p>
+    <a href="https://github.com/FetalCircuit/sanssanssoleil/releases/tag/v3.0">Download app</a></p>
 
 <h2><span class="post-link">National UFO Reporting Agency reported sitings, 1925-2009</span></h2>
 <ul class="post-list">
