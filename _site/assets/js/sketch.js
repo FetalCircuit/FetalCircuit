@@ -3,6 +3,7 @@ var boxes = [];
 //letter size
 var s = 30;
 var sp = 10;
+var canvas;
 
 // Variables for letters
 
@@ -19,7 +20,7 @@ var n2;
 var k1;*/
 
 function setup() {
-  var canvas = createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight);
   canvas.position(0, 0);
   canvas.style('z-index', '-1');
   noFill();

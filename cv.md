@@ -8,6 +8,7 @@ permalink: /cv/
 <body>
   <ul class="post-list">
     <li>
+      <figure><img src="/assets/images/zelda_fire_render.gif" title="A campfire smells sad and exciting at the same time" width="100px;" align="left" style="padding-right:10px;"></figure>
       <span class="post-meta"><b><mark>Tiffany Funk</mark></b> is co-founding Lecturer and Academic Advisor
 of Interdisciplinary Education in the Arts (IDEAS) at the University of Illinois at Chicago, School of Art and Art History,
 and Editor-in-Chief of the <em>Video Game Art Reader</em>.</span>
